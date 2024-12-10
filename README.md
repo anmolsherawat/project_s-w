@@ -28,7 +28,7 @@ We welcome suggestions and contributions! Feel free to open issues or submit pul
 
 ## Authors
 
-This website was created by **Anmol** and **Sahil Kumar**, combining passion for technology with a mission to simplify smartphone selection for everyone.
+This website was created by Anmol and Sahil Kumar, combining passion for technology with a mission to simplify smartphone selection for everyone.
 
 ## Contact
 
