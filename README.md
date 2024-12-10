@@ -4,14 +4,14 @@
 
 ## Features
 
-- Comprehensive Reviews**: Honest and unbiased reviews of the latest smartphones to help you make informed decisions.
+- Comprehensive Reviews: Honest and unbiased reviews of the latest smartphones to help you make informed decisions.
 - Detailed Specifications**: In-depth details about each smartphone, covering all essential features and technical aspects.
 - Quick Links**: Direct purchase links for smartphones, saving you time and effort.
 - Official Resources**: Links to official websites for more information and detailed specifications.
 
 ## Why Choose SmartSpec?
 
-- Unbiased Reviews**: We prioritize transparency and authenticity in our reviews.
+- Unbiased Reviews: We prioritize transparency and authenticity in our reviews.
 - User-Friendly Interface**: Navigate effortlessly and find the information you need with ease.
 - Up-to-Date Content**: Stay informed about the latest releases and updates in the smartphone world.
 
