@@ -32,4 +32,4 @@ This website was created by **Anmol** and **Sahil Kumar**, combining passion for
 
 ## Contact
 
-For inquiries, feedback, or partnership opportunities, reach out to us at.
+For inquiries, feedback, or partnership opportunities, reach out to us at[contact@smartspec.com].
